@@ -1,0 +1,13 @@
+Firstly, let's dispel the myth that text mining and text analysis are two different processes. The terms are often used interchangeably to explain the same process of obtaining data through statistical pattern learning. To avoid any confusion here, let's stick to text analysis.
+
+So, text analytics vs. text analysis: what's the difference?
+
+Text analysis delivers qualitative results and text analytics delivers quantitative results. If a machine performs text analysis, it identifies important information within the text itself, but if it performs text analytics, it reveals patterns across thousands of texts, resulting in graphs, reports, tables etc.
+
+Let's say a customer support manager wants to know how many support tickets were solved by individual team members. In this instance, they'd use text analytics to create a graph that visualizes individual ticket resolution rates.
+
+However, it's likely that the manager also wants to know which proportion of tickets resulted in a positive or negative outcome?
+
+By analyzing the text within each ticket, and subsequent exchanges, customer support managers can see how each agent handled tickets, and whether customers were happy with the outcome.
+
+Basically, the challenge in text analysis is decoding the ambiguity of human language, while in text analytics it's detecting patterns and trends from the numerical results.
